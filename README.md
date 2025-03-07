@@ -1,16 +1,16 @@
-# Nome do projeto
+# SmartGym
 
 Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Ana Carolina Nunes Souza
+* Ester Messias da Silva
+* Gabriel Vitor Borges de Souza
+* Kesley Pereira Belini Ferreira
+* Samuel Gonçalves Santos
+* Vitor Costadela de Oliveira e Costa
 
 ## Professor
 
-* Nome completo do professor
+* Rosilane Ribeiro da Mota
