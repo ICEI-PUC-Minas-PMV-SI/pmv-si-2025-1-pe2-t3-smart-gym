@@ -1,17 +1,17 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Smart Gym - Automação e Análise de Dados para Academias
 authors:
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
+  - family-names: da Silva
+    given-names: Ester Messias
+  - family-names: de Souza
+    given-names: Gabriel Vitor Borges 
+  - family-names: Ferreira
+    given-names: Kesley Pereira Belini 
+  - family-names: Santos
+    given-names: Samuel Gonçalves
+  - family-names: e Costa
+    given-names: Vitor Costadela de Oliveira 
   - family-names: sobrenome do aluno 6
     given-names: Nome do aluno 6 
   - name-suffix: Professora
@@ -27,9 +27,9 @@ authors:
     family-names: Da Mota
     given-names: Rosilane Ribeiro
 keywords:
-  - 
-  - 
+  - modelagem de dados
+  - modelagem de processos de negócio
 repository-code: 
 license: CC-BY-4.0
 version: 1.0.0
-date-released:
+date-released: 2025-06-22
